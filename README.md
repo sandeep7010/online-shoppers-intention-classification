@@ -83,6 +83,16 @@ The best performing model was selected based on overall performance and generali
 These insights help businesses improve **customer targeting, website design, and marketing strategies**.
 
 ---
+## Files
+
+| File                              | Description                                                        |
+| --------------------------------- | ------------------------------------------------------------------ |
+| `online_shoppers_intention.csv`   | E-commerce visitor session dataset                                 |
+| `online_shoppers_intention.ipynb` | Main notebook with EDA, preprocessing, model building & evaluation |
+| `best_model_pipeline.pkl`         | Saved best performing model pipeline                               |
+| `model_comparison.csv`            | Model performance comparison results                               |
+| `README.md`                       | Project documentation and overview                                 |
+
 
 ### Tech Stack 
 
